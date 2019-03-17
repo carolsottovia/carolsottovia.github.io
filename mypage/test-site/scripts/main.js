@@ -11,7 +11,6 @@ myImage.onclick = function() {
 
 // Personalized welcome message code
 
-var myButton = document.querySelector('button');
 var myHeading = document.querySelector('h1');
 
 function setUserName() {
