@@ -19,8 +19,3 @@ function setUserName() {
   localStorage.setItem('name');
   myHeading.innerHTML = 'Carolina Sottovia';
 }
-
-
-myButton.onclick = function() {
-  setUserName();
-}
